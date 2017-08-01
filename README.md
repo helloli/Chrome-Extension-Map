@@ -1,11 +1,4 @@
-## 笔记
-
-- popup.js和background.js交互
-
-- content scripts和background.js交互
-
-
-## 下班回家看路况(百度版)——Chrome插件
+## 下班回家看路况(百度/高德地图)——Chrome插件
 
 ### 使用说明
 
@@ -14,3 +7,10 @@
 - 勾选右上角“开发者模式”选项
 - 点击左侧“加载已解压的扩展程序”按钮，选择下载的文件夹
 - 点击地址栏右边的水滴状图标即可查看北京实时路况信息
+- 右键水滴状图标，点击选项，可以设置展示位百度地图还是高德地图
+
+## 笔记
+
+- popup.js和background.js交互
+
+- content scripts和background.js交互
